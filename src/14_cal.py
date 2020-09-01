@@ -38,5 +38,5 @@ elif len(sys.argv) == 2:
 elif len(sys.argv) == 1:
   calendar.prmonth(2020, 9)
 else:
-  print("Numbers only! Format example: December 2020 = '12 2020'")
+  print("2 numbers only! Format example: December 2020 = '12 2020'")
   exit()
